@@ -2,10 +2,15 @@
 The project “Implementation of Client Script and UI Policies” demonstrates the use of ServiceNow client-side controls for Incident records. The implementation combines UI Policies and Client Scripts to control field behavior, enforce mandatory information, automate values, validate submissions, and restrict selected list-edit operations.
 
 TEAM LEADER:- S. Nithya Shree 
+
 TEAM MEMBERS:- 
+
 D. Nivetha
+
 B. Resma Parvin
+
 A. Srinithi 
+
 B. Versha 
 Tagore Engineering College 
 B.E. Computer Science and Engineering 
