@@ -1,4 +1,4 @@
-#INTRODUCTION:
+# INTRODUCTION:
 Our project is “Implement Client Script and UI Policy in ServiceNow Incident Management.”
 
 The main purpose of this project is to improve the accuracy and consistency of Incident records in ServiceNow. When users create or update incidents, they may sometimes enter incomplete or incorrect information.
