@@ -1,10 +1,15 @@
 # Tools Used
 
 1.ServiceNow Personal Developer Instance (PDI)
+
 2.Incident Table
+
 3.UI Policies
+
 4.UI Policy Actions
+
 5.Client Scripts
+
 6.GlideForm APIs
 
 g_form.setValue()
